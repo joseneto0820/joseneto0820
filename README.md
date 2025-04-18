@@ -1,8 +1,7 @@
-## 👋 Hi! I'm **José NETO**  
+## 👋 Hi! I'm **José Neto**  
 🚀 Front-End Student from João Pessoa - PB, Brazil
 ###
 - 🔭 Atualmente estou estudando JavaScript
-- 💬 Me chama pra trocar ideia sobre programação ou design!
 
 
 <div align="center">
