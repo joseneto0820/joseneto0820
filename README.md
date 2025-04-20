@@ -1,7 +1,7 @@
 ## 👋 Hi! I'm **José Neto**  
 🚀 Computer Science and Front-End Student from João Pessoa - PB, Brazil
 ###
-- 🔭 Atualmente estou estudando JavaScript
+- 🔭 Atualmente estou estudando React
 
 
 <div align="center">
